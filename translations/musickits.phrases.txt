@@ -1,0 +1,22 @@
+"Phrases"
+{
+	"Choose a Music Kit Currently"
+	{
+		"#format"		"{1:s}"
+		"en"			"Chosse a Music Kit\nCurrently: {1}"
+		"de"			"Wähle ein Musik Kit\nAktuelles: {1}"
+	}
+	
+	"Choose a Music Kit"
+	{
+		"en"			"Chosse a Music Kit:"
+		"de"			"Wähle ein Musik Kit:"
+	}
+	
+	"Music Kit Choosed"
+	{
+		"#format"		"{1:s}"
+		"en"			"You've choosen: {1}"
+		"de"			"Sie haben gewählt: {1}"
+	}
+}
