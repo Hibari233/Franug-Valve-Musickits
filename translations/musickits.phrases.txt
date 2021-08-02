@@ -5,6 +5,7 @@
 		"#format"		"{1:s}"
 		"en"			"Chosse a Music Kit\nCurrently: {1}"
 		"de"			"Wähle ein Musik Kit\nAktuelles: {1}"
+		"ru"			"Выберите набор музыки\nТекущий: {1}"
     		"chi"     		"选择音乐盒\n当前音乐盒: {1}"
 	}
 	
@@ -12,6 +13,7 @@
 	{
 		"en"			"Choose a Music Kit:"
 		"de"			"Wähle ein Musik Kit:"
+		"ru"			"Выберите набор музыки:"
     		"chi"     		"选择音乐盒:"
 	}
 	
@@ -20,6 +22,7 @@
 		"#format"		"{1:s}"
 		"en"			"You've choosen: {1}"
 		"de"			"Sie haben gewählt: {1}"
+		"ru"			"Вы выбрали: {1}"
     		"chi"     		"已经选择了: {1}音乐盒"
 	}
 }
